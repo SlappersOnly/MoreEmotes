@@ -1,0 +1,14 @@
+{
+    "file": "staxel/avatar/avatar.boneanimation", 
+    "priority": 2, 
+    "mergeLists": false, 
+    "patch" : {
+ "definition": "mods/MoreEmotes/ModifiedAvatar.bvh",
+ "timelines": {
+     "dabmod.animation.dab": {
+      "start": 5338,
+      "end": 5359
+    },
+	},
+	}
+}

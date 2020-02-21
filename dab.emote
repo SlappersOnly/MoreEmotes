@@ -1,0 +1,17 @@
+{
+  "code": "MarkGrant.MoreEmotes.emote.Dab",
+  "animation": "MarkGrant.MoreEmotes.boneAnimation.Dab",
+  "looped": false,
+  "categories": [
+    "emote"
+  ],
+  "icon": "staxel/emote/RedHeart.qb",
+  "pricing": {
+    "catalogueUnlockedFromStart": false,
+    "value": 100.0,
+    "sellPrice": 60.0,
+    "canBeEarntFromLuckyBox": false
+  },
+  "searchable": true,
+  "shortCode": "dab"
+}
